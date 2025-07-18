@@ -4,8 +4,6 @@ HookFlo enables modern teams to **log, monitor, and respond to critical events**
 
 [Get Started for free today →](https://hookflo.com)
 
-<img width="2048" height="1150" alt="image" src="https://github.com/user-attachments/assets/2e00a7c5-77ec-4064-8a90-b18b9f560e2b" />
-
 ---
 
 ## What We Offer
